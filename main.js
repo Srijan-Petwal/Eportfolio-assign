@@ -382,7 +382,7 @@ function contactSection()  {
   gsap.set('h4, .inner-contact span', {
     yPercent: 100
   })
-  gsap.set('.inner-contact p', { 
+  gsap.set(['.inner-contact p','.story-video'], { 
     opacity: 0
   })
 
@@ -402,8 +402,9 @@ function contactSection()  {
     .to('h4, .inner-contact span', {
       yPercent: 0
     })
-    .to('.inner-contact p', {
-      opacity: 1
+    .to(['.inner-contact p','.story-video'], {
+      opacity: 1,
+      stagger:0.5
     })
 
 }

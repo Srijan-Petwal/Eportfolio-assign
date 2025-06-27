@@ -480,7 +480,7 @@ h1.movie-review-head{
 }
 h1.slide-1-head{
     color: #f7ceecd8;
-    background-image: url('./movie-review.jpg');
+    background-image: url('/movie-review.jpg');
     background-size:contain;
     background-repeat: no-repeat;
     text-shadow: 10px 10px 5px rgba(33, 13, 33, 0.382);
