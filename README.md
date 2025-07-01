@@ -51,8 +51,9 @@ Think of it as a "serious assignment that took a detour through the multiverse" 
 ## 🚧 Notes
 
 > This portfolio isn’t meant to be a polished, final representation of me —  
-> it’s a creative academic piece made with love and lots of javascripts tags. 😄
+> it’s a creative academic piece made with love and lots of javascript. 😄
 >I made it when my end semester exams were going. I had lot on my plate and even more so on ma mind, so I tried a bunch of things, scraped a bunch more, that's why code might be messy🙇‍♂️
+> I am always super up for code `readability`, `maintainability` and I understand & apologize if its not upto the mark! But I am too lazy to to clean it up and rewire it now. I mean its not even temporary of temporary portfolio, I just did it for fun so 🙇‍♂️ 
 ---
 
 ## 🔗 Connect with Me
