@@ -1,5 +1,6 @@
 # 🗂️ E-Portfolio Assignment (But Make It ✨ Cool ✨)
 
+>[!IMPORTANT]
 > 📚 Built for: `PESE-600`  
 > 🧠 Tech + Creativity + A dash of comic-book flair = This isn’t your typical school portfolio.
 > Check it out it even has videos! Where I narrate a story, few ramblings about Why I love Miyazaki-sensei, my recent favorite movie's review and lot more!
@@ -49,7 +50,7 @@ Think of it as a "serious assignment that took a detour through the multiverse" 
 ---
 
 ## 🚧 Notes
-
+>[!WARNING]
 > This portfolio isn’t meant to be a polished, final representation of me —  
 > it’s a creative academic piece made with love and lots of javascript. 😄
 >I made it when my end semester exams were going. I had lot on my plate and even more so on ma mind, so I tried a bunch of things, scraped a bunch more, that's why code might be messy🙇‍♂️
